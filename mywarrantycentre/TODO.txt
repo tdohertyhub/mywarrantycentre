@@ -1,0 +1,1 @@
+COMPLETED chop the footer, nav and header into correct folders.
